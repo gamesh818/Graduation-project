@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "621892eba22db23de0b37131"
+  },
+  "chatNumber": [
+    "123456",
+    "1234567"
+  ],
+  "chatLists": [
+    {
+      "stuId": 1234567,
+      "content": "开始聊天呀",
+      "date": 1645777644127,
+      "_id": {
+        "$oid": "621892eca22db23de0b37132"
+      }
+    },
+    {
+      "stuId": 123456,
+      "content": "hi",
+      "date": 1645780963286,
+      "_id": {
+        "$oid": "62189fe379d0f93e4c948b1e"
+      }
+    },
+    {
+      "stuId": 123456,
+      "content": "111",
+      "date": 1645780979669,
+      "_id": {
+        "$oid": "62189ff379d0f93e4c948b1f"
+      }
+    },
+    {
+      "stuId": 1234567,
+      "content": "歪比歪比",
+      "date": 1646190936153,
+      "_id": {
+        "$oid": "621ee158ac7df10594c76c22"
+      }
+    },
+    {
+      "stuId": 123456,
+      "content": "你好",
+      "date": 1646190946753,
+      "_id": {
+        "$oid": "621ee162ac7df10594c76c23"
+      }
+    },
+    {
+      "stuId": 123456,
+      "content": "der",
+      "date": 1646990048889,
+      "_id": {
+        "$oid": "622b12e0f411fd41b0951dcf"
+      }
+    }
+  ],
+  "chatNoSeeMumber": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b19ccf411fd41b0951dd6"
+  },
+  "chatNumber": [
+    "123456",
+    "778899"
+  ],
+  "chatLists": [
+    {
+      "stuId": 778899,
+      "content": "开始聊天呀",
+      "date": 1646991821626,
+      "_id": {
+        "$oid": "622b19cdf411fd41b0951dd7"
+      }
+    },
+    {
+      "stuId": 123456,
+      "content": "hellow",
+      "date": 1646991956592,
+      "_id": {
+        "$oid": "622b1a54f411fd41b0951dd8"
+      }
+    },
+    {
+      "stuId": 778899,
+      "content": "你好鸭",
+      "date": 1646992603777,
+      "_id": {
+        "$oid": "622b1cdbf411fd41b0951dd9"
+      }
+    }
+  ],
+  "chatNoSeeMumber": [],
+  "__v": 0
+}]

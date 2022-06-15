@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "621edd997ef994274ce02405"
+  },
+  "rid": 1,
+  "number": 1,
+  "build": "一公教",
+  "floor": 1,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce0240d"
+  },
+  "rid": 9,
+  "number": 3,
+  "build": "二公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce02406"
+  },
+  "rid": 2,
+  "number": 2,
+  "build": "一公教",
+  "floor": 1,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce0240e"
+  },
+  "rid": 10,
+  "number": 4,
+  "build": "二公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "rid": 3,
+  "number": 3,
+  "build": "一公教",
+  "floor": 1,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce0240a"
+  },
+  "rid": 6,
+  "number": 2,
+  "build": "一公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce02408"
+  },
+  "rid": 4,
+  "number": 4,
+  "build": "一公教",
+  "floor": 1,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce0240b"
+  },
+  "rid": 7,
+  "number": 1,
+  "build": "二公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce02409"
+  },
+  "rid": 5,
+  "number": 1,
+  "build": "一公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621edd997ef994274ce0240c"
+  },
+  "rid": 8,
+  "number": 2,
+  "build": "二公教",
+  "floor": 2,
+  "allSeats": 55,
+  "__v": 0
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "622b14dcf411fd41b0951dd5"
+  },
+  "stuInfo": {
+    "$oid": "622b14a4f411fd41b0951dd0"
+  },
+  "hasRoomInfo": {
+    "$oid": "622b14bdf411fd41b0951dd2"
+  },
+  "seatIndex": 2,
+  "isCreate": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b35b58b19c27b8b3b083"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "hasRoomInfo": {
+    "$oid": "6264b35b58b19c27b8b3b082"
+  },
+  "seatIndex": 6,
+  "isCreate": true,
+  "__v": 0
+}]

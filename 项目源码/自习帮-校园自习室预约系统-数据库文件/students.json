@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "stuId": 123456,
+  "name": "韦治宇",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "男",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214b17b3d19c63920d96777"
+  },
+  "stuId": 1234567,
+  "name": "法法",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "男",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214b1ca3d19c63920d96778"
+  },
+  "stuId": 12345678,
+  "name": "5号技师小鲁",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "男",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621ecc9d39cd0d3c7c6c9d63"
+  },
+  "stuId": 123456789,
+  "name": "9号技师小官",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "男",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b14a4f411fd41b0951dd0"
+  },
+  "stuId": 778899,
+  "name": "10号技师张建平",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "女",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62664b74c934af10b87e4f93"
+  },
+  "stuId": 1,
+  "name": "韦治宇",
+  "password": "123456",
+  "school": "传智专修学院",
+  "major": "全栈",
+  "sex": "男",
+  "avatorUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2323437359,2829288646&fm=26&gp=0.jpg",
+  "__v": 0
+}]

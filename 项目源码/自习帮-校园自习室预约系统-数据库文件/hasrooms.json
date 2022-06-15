@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "621ee0e4ac7df10594c76c1c"
+  },
+  "moon": 3,
+  "day": 2,
+  "title": "英语三级自习讨论",
+  "action": "123456",
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "24",
+      "stuId": "123456",
+      "sex": "男"
+    },
+    {
+      "seat": "22",
+      "stuId": 1234567,
+      "sex": "男"
+    }
+  ],
+  "studentId": [],
+  "isSelectBar": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62201e80b48192155cb53995"
+  },
+  "moon": 3,
+  "day": 3,
+  "title": "11",
+  "action": "11",
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "38",
+      "stuId": "123456",
+      "sex": "男"
+    }
+  ],
+  "studentId": [],
+  "isSelectBar": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221d0debcca12368478b8f2"
+  },
+  "moon": 3,
+  "day": 4,
+  "title": "英语三级自习讨论",
+  "action": "123",
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "36",
+      "stuId": "123456",
+      "sex": "男"
+    }
+  ],
+  "studentId": [],
+  "isSelectBar": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b14bdf411fd41b0951dd2"
+  },
+  "moon": 3,
+  "day": 11,
+  "title": "技师大会",
+  "action": "111",
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02405"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "4",
+      "stuId": "123456",
+      "sex": "男"
+    },
+    {
+      "seat": "2",
+      "stuId": 778899,
+      "sex": "女"
+    }
+  ],
+  "studentId": [],
+  "isSelectBar": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f137618987534e8cfbc80"
+  },
+  "moon": 3,
+  "day": 14,
+  "title": "英语三级自习讨论",
+  "action": "1",
+  "roomAudit": false,
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "32",
+      "stuId": "123456",
+      "sex": "男"
+    }
+  ],
+  "studentId": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b35b58b19c27b8b3b082"
+  },
+  "moon": 4,
+  "day": 24,
+  "title": "英语三级自习讨论",
+  "action": "请全栈班同学尽快入座。",
+  "roomAudit": true,
+  "roomInfo": {
+    "$oid": "621edd997ef994274ce02407"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "seatsLists": [
+    {
+      "seat": "6",
+      "stuId": "123456",
+      "sex": "男"
+    }
+  ],
+  "studentId": [],
+  "__v": 0
+}]

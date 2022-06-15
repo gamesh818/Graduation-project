@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "622031c0de240411ac48d87d"
+  },
+  "praiseList": [
+    {
+      "stuInfo": {
+        "$oid": "6214b066d1be972f2caabab5"
+      },
+      "praise": 5,
+      "praiseStu": [
+        {
+          "stuId": "6214b17b3d19c63920d96777",
+          "day": 3,
+          "_id": {
+            "$oid": "622038d0a8dedf34a887dc0b"
+          }
+        },
+        {
+          "stuId": "6214b066d1be972f2caabab5",
+          "day": 24,
+          "_id": {
+            "$oid": "626511b8b7eb00308c240ef1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "622031c9de240411ac48d87e"
+      }
+    },
+    {
+      "stuInfo": {
+        "$oid": "6214b17b3d19c63920d96777"
+      },
+      "praise": 3,
+      "praiseStu": [
+        {
+          "stuId": "6214b066d1be972f2caabab5",
+          "day": 24,
+          "_id": {
+            "$oid": "626511bbb7eb00308c240ef2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "622031dfde240411ac48d87f"
+      }
+    },
+    {
+      "stuInfo": {
+        "$oid": "622b14a4f411fd41b0951dd0"
+      },
+      "praise": 0,
+      "praiseStu": [],
+      "_id": {
+        "$oid": "622b14a7f411fd41b0951dd1"
+      }
+    },
+    {
+      "stuInfo": {
+        "$oid": "62664b74c934af10b87e4f93"
+      },
+      "praise": 0,
+      "praiseStu": [],
+      "_id": {
+        "$oid": "62664b87c934af10b87e4f94"
+      }
+    }
+  ],
+  "__v": 0
+}]

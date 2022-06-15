@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "621ee143ac7df10594c76c21"
+  },
+  "stuInfo": {
+    "$oid": "6214b17b3d19c63920d96777"
+  },
+  "collectRidList": [
+    {
+      "collectRid": {
+        "$oid": "621ee0e4ac7df10594c76c1c"
+      },
+      "_id": {
+        "$oid": "621ee143ac7df10594c76c20"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622095934adaae3ef4acb7e2"
+  },
+  "stuInfo": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "collectRidList": [
+    {
+      "collectRid": {
+        "$oid": "62201e80b48192155cb53995"
+      },
+      "_id": {
+        "$oid": "622095934adaae3ef4acb7e1"
+      }
+    }
+  ],
+  "__v": 0
+}]

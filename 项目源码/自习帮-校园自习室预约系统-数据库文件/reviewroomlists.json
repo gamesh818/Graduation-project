@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6221d0f7bcca12368478b8f4"
+  },
+  "stuInfo": {
+    "$oid": "6214b17b3d19c63920d96777"
+  },
+  "verifier": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "roomRecord": {
+    "$oid": "6221d0debcca12368478b8f2"
+  },
+  "seatIndex": 21,
+  "reject": false,
+  "date": "1646383351591",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b36258b19c27b8b3b084"
+  },
+  "stuInfo": {
+    "$oid": "6214b17b3d19c63920d96777"
+  },
+  "verifier": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "roomRecord": {
+    "$oid": "6264b35b58b19c27b8b3b082"
+  },
+  "seatIndex": 8,
+  "reject": true,
+  "date": "1650766690873",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264c40eb7eb00308c240ef0"
+  },
+  "stuInfo": {
+    "$oid": "6214b17b3d19c63920d96777"
+  },
+  "verifier": {
+    "$oid": "6214b066d1be972f2caabab5"
+  },
+  "roomRecord": {
+    "$oid": "6264b35b58b19c27b8b3b082"
+  },
+  "seatIndex": 20,
+  "reject": false,
+  "date": "1650770958272",
+  "__v": 0
+}]
